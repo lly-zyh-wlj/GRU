@@ -1,7 +1,7 @@
 # 20Newsgroups 二分类 GRU 模型实现
 
 ## 项目任务
-以 20newsgroups 数据中的 `alt.atheism` 和 `soc.religion.christian` 两类为二分类样本，使用 **1 层 GRU 模型**完成文本分类任务，要求测试集准确率 > 0.7。
+以 20newsgroups (解压20news-bydate.rar所得)数据中的 `alt.atheism` 和 `soc.religion.christian` 两类为二分类样本，使用 **1 层 GRU 模型**完成文本分类任务，要求测试集准确率 > 0.7。
 
 ## 数据处理
 
